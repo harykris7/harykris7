@@ -5,7 +5,7 @@ https://github.com/harykris7/harykris7/issues/1#issue-1999592821
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harykris7" alt="harykris7" /></a> </p>
 
-- 🌱 I’m currently learning **CCNA, DevOps, Shell Scripting AWS**
+- 🌱 I’m currently learning **CCNA, DevOps, Shell Scripting, AWS**
 
 - 👯 I’m looking to collaborate on **Cloud projects**
 
